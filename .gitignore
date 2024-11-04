@@ -1,5 +1,40 @@
 #ignore .env file 
 .env
 
+# Environment files
+.env
+venv/
+env/
 
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Dependency management
+Pipfile.lock
+poetry.lock
+
+# Data and large files
+data/
+*.csv
+*.json
+*.log
+
+# Logs and temporary files
+*.tmp
+*.swp
+*.bak
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# macOS and Windows files
+.DS_Store
+Thumbs.db
 

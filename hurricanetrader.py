@@ -26,5 +26,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 import statsmodels.api as sm
 
+#Access API keys
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
+
+#API
 

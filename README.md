@@ -6,3 +6,4 @@ and go back up in the long-term depending on the severity of the Hurricane. I am
 before they hit and their severity (if they will be a direct hit or only hit a certain part) to determine when and how much to short these stocks 
 
 
+# Can use sigments where old hurricanes have appeared to track when these ones will appear 
