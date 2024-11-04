@@ -1,16 +1,5 @@
-# Ignore Python compiled files
-__pycache__/
-*.py[cod]
-
-# Ignore environment files
+#ignore .env file 
 .env
 
-# Ignore virtual environment folders
-venv/
-env/
 
-# Ignore log files
-*.log
 
-# Ignore macOS system files
-.DS_Store
