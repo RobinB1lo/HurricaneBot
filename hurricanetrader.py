@@ -1,8 +1,3 @@
-#Hypothesis: When a hurricane is projected to hit Florida, insurance companies based in florida stock price, 
-#energy companies based in Florida stock price, and cruise line companies based in Florida stock price all go down on the short-term 
-#and go back up in the long-term depending on the severity of the Hurricane. I am looking to project these Hurricanes at least a week
-#before they hit and their severity (if they will be a direct hit or only hit a certain part)
-
 # Data Collection
 import yfinance as yf
 import requests
